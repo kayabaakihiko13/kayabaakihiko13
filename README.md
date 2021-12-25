@@ -1,4 +1,4 @@
-- 👨‍🎓 I'm a Data Scientist 2021 students of UPN "Veteran" Jatim
+- 👨‍🎓 I'm a Data Scientist students 2021 of UPN "Veteran" Jatim
 - 👀 I’m interested in Data Analytic,Artifical Intellingent,Front-end Development
 - 🌱 I’m currently learning Python,HTML,CSS,C++
 - ☎️ Pronouns: He/him
