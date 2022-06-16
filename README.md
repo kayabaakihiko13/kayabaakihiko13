@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python,HTML,CSS,C++
 - ☎️ Pronouns: He/him
 - 😆 Fun fact: I am Single for 19 years
-- 🥅 2022 Goals: Have more interesting Data analytics and Artifical Intellingent 
+- 🥅 2022 Goals: i has skilled python and django
 - 📫 How to reach me ...
 
 Languages And Tool:
