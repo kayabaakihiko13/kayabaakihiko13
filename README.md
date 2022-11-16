@@ -1,15 +1,30 @@
-- 👨‍🎓 I'm a Data Scientist students 2021 of UPN "Veteran" Jatim
-- 👀 I’m interested in Data Analytic,Artifical Intellingent,Front-end Development
-- 🌱 I’m currently learning Python,HTML,CSS,C++
-- ☎️ Pronouns: He/him
-- 😆 Fun fact: I am Single for 19 years
-- 🥅 2022 Goals: i has skilled python and django
-- 📫 How to reach me ...
 
-Languages And Tool:
-![image width='200px'](https://user-images.githubusercontent.com/95537097/147390010-870f9e2b-f091-41f1-931a-ff42e83c9f36.png)
-![image](https://user-images.githubusercontent.com/95537097/147390020-063818d2-3202-415c-9a01-5623ed9433c5.png)
-![image](https://user-images.githubusercontent.com/95537097/147390028-bf8ecd44-985f-499e-8138-2f964a326fcd.png)
+## 🚀 About Me
+I'm a Data Science Students
+
+# Hi, I'm Iqbal Ramadhan Anniswa! 👋
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqbal-ramadhananniswa/)
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently study on Data Science at UPN Jatim Surabaya
+
+🧠 I'm currently learning Python,Reggesion Analytic and Machine Learning 
+
+👯‍♀️ I'm looking to collaborate on...
+
+📫 How to reach me [my linkedin](https://www.linkedin.com/in/iqbal-ramadhananniswa/)
+
+😄 Pronouns he/him
+
+⚡️ Fun fact I am Singel 
+
+
+## 🛠 Skills
+Python,Linux,Data Analytc
+
 
 
 
