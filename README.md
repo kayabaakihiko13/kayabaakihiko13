@@ -1,8 +1,8 @@
 
 ## 🚀 About Me
-I'm a Data Science Students
 
 # Hi, I'm Iqbal Ramadhan Anniswa! 👋
+I'm a Data Science Students
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqbal-ramadhananniswa/)
